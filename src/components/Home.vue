@@ -5,7 +5,7 @@
     <el-header class="el-header">
       <div>
         <img src="../assets/xz.jpg" alt />
-        <span>VIN电商后台管理系统</span>
+        <span>VIN后台管理系统</span>
       </div>
       <!-- 退出登录按钮 -->
       <el-button type="info" @click="logout">退出</el-button>
